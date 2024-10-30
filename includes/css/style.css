@@ -1,0 +1,16 @@
+.lbbw-image-wrap, .lbbw-textarea-wrap {
+	text-align: center;
+}
+
+.lbbw-image-wrap {
+	margin-bottom: 10px;
+}
+
+.lbbw-instruction-wrap {
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.lbbw-instruction {
+	font-style: italic;
+}
